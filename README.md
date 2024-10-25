@@ -7,3 +7,4 @@ https://user-images.githubusercontent.com/116067226/210993487-c186670a-2613-4551
 
 Процесс сборка
 ![image](https://user-images.githubusercontent.com/116067226/210993863-a9bdec00-198f-4ba3-95f7-6f68873ea8a4.png)
+1
